@@ -1,0 +1,2 @@
+# getscript
+my site
